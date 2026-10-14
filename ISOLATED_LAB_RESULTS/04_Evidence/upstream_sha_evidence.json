@@ -1,0 +1,38 @@
+{
+  "project": "COOLIFY",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "coollabsio/coolify",
+  "search_url": "https://api.github.com/search/repositories?q=coolify&per_page=5",
+  "search_status": 200,
+  "candidates": [
+    {
+      "full_name": "coollabsio/coolify",
+      "stars": 62648,
+      "license": "Apache-2.0"
+    },
+    {
+      "full_name": "coollabsio/coolify-docs",
+      "stars": 383,
+      "license": "Apache-2.0"
+    },
+    {
+      "full_name": "coollabsio/coolify-cli",
+      "stars": 477,
+      "license": "MIT"
+    },
+    {
+      "full_name": "StuMason/coolify-mcp",
+      "stars": 609,
+      "license": "MIT"
+    },
+    {
+      "full_name": "coollabsio/coolify-examples",
+      "stars": 378,
+      "license": "Apache-2.0"
+    }
+  ],
+  "commit_url": "https://api.github.com/repos/coollabsio/coolify/commits/main",
+  "commit_status": 200,
+  "default_branch": null,
+  "commit_response_excerpt": "{\"sha\": \"41ed5b7a699168599d685f999cc24327359258d1\", \"commit\": {\"message\": \"test: fix stale and flaky tests\\n\\n- Update tests whose expectations no longer mat\", \"committer_date\": \"2026-10-06T11:01:49Z\"}}"
+}
